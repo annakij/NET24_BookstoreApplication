@@ -1,4 +1,4 @@
-# BookstoreApplication.Presentation
+# Bookstore Application
 
 This is the second project made with a databse in my .NET education. In this project, we develop an application in C# that uses the Entity Framework to allow users to read and update data in a database. 
 
